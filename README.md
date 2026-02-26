@@ -1,1 +1,1 @@
-# careerMilestone_landing_page
+# simple_landing_page
